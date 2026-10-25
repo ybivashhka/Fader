@@ -2,6 +2,8 @@
 
 <img src="docs/icon.png" width="72" alt="Fader">
 
+https://github.com/user-attachments/assets/c438d7ff-08e0-4b5d-8d76-1b5fff706578
+
 Громкость приложений на Mac. Музыку громче, браузер тише — из одного окна.
 
 **macOS 14.2+ · Apple Silicon**
